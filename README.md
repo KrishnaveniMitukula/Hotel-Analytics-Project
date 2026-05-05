@@ -34,11 +34,9 @@ We built and evaluated multiple machine learning algorithms to predict whether a
 
 ## 📊 Business Intelligence Dashboard
 
-### Executive Overview
-![Executive Overview](Finalweek4_Dashboard/DAshboardpage(1).png)
+![Executive Overview](Finalweek4_Dashboard/DAshboardpage%281%29.png)
 
-### Customer Segmentation & Trends
-![Customer Segmentation](Finalweek4_Dashboard/Dashboardpage(2).png)
+![Customer Segmentation](Finalweek4_Dashboard/Dashboardpage%282%29.png)
 
 > 💡 To interact with the dashboard live, download the .pbix file from the Finalweek4_Dashboard/ folder and open it in Power BI Desktop.
 
