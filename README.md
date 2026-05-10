@@ -135,6 +135,10 @@ Each feature branch was developed independently and merged into main via Pull Re
 4. Open Finalweek4_Dashboard/hotel_report.pbix in Power BI Desktop for the interactive dashboard.
 
 ---
+## 🙏 Acknowledgments
+- **Infotact Solutions** — For mentorship and project guidance
+- **Kaggle** — For providing the Hotel Booking Demand dataset
+- **Scikit-Learn Documentation** — For ML implementation references
 
 ## 👩‍💻 Author
 **Krishnaveni Mitukula**
