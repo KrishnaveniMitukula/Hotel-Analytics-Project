@@ -135,6 +135,13 @@ Each feature branch was developed independently and merged into main via Pull Re
 4. Open Finalweek4_Dashboard/hotel_report.pbix in Power BI Desktop for the interactive dashboard.
 
 ---
+## 📝 Lessons Learned
+- Data cleaning consumes 60-70% of a real-world data science project
+- Feature engineering (like One-Hot Encoding) is critical for ML model performance
+- Lead time emerged as the most powerful cancellation predictor — directly impacting business strategy
+- Interactive dashboards bridge the gap between technical analysis and executive decision-making
+- Professional Git workflows (feature branches, PRs) ensure clean, traceable project development
+
 ## 🙏 Acknowledgments
 - **Infotact Solutions** — For mentorship and project guidance
 - **Kaggle** — For providing the Hotel Booking Demand dataset
