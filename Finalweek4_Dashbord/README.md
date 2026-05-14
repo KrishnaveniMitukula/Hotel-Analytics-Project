@@ -18,7 +18,7 @@ This page provides a high-level summary of key business metrics:
 ### Page 2: Customer Segmentation & Trends
 ![Customer Segmentation](Dashboardpage%282%29.png)
 
-This page provides a deeper breakdown of customer behavior and booking patterns across different segments.
+This page provides a deeper breakdown of customer behavior & booking patterns across different segments.
 
 ## 🔍 Key Insights Discovered
 1. **Lead Time** is the strongest predictor of cancellations — longer advance bookings cancel far more frequently
